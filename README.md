@@ -41,6 +41,6 @@ __AFTER:__
 }
 ```
 <br>
-By setting this to false, some commands like checktt, rankup and other commands that needs database may not work but it has a good benefit making your bot last longer and might avoid being suspended for a long period of time.
+If you set this to true, you will have to run the bot very carefully when adding it Do not log out while your vote ID is logged in to Facebook, otherwise there may be a problem with the ID
 
 ---
