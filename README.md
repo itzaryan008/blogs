@@ -24,7 +24,7 @@ By setting this to false, some commands like checktt, rankup and other commands 
 ### Run bot on your own ID
 __=>__ 
   
-<img align="center" src="https://i.ibb.co/4SChsvH/facebook.jpg">
+<img align="center" src="https://i.imgur.com/DRlOE5L.jpeg">
 
 Maybe, I can help you with that. So these are the things to do. Go to your **config.json** and look for **autoCreateDB**. If you found it, then simply replace true to false.
 <br><br>
