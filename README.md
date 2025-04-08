@@ -26,7 +26,7 @@ __=>__
   
 <img align="center" src="https://i.imgur.com/gJGPC5w.jpeg">
 
-Maybe, I can help you with that. So these are the things to do. Go to your **config.json** and look for **selflisten**. If you found it, then simply replace true to false.
+Maybe, I can help you with that. So these are the things to do. Go to your **config.json** and look for **selflisten**. If you found it, then simply replace false to true.
 <br><br>
 __BEFORE:__
 ```json
