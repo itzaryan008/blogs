@@ -44,3 +44,8 @@ __AFTER:__
 If you set this to true, you will have to run the bot very carefully when adding it Do not log out while your vote ID is logged in to Facebook, otherwise there may be a problem with the ID
 
 ---
+<br><br> __credit boy ArYAN__
+  - [ itz Aryan 🎀](https://www.facebook.com/profile.php?id=61574850908374)
+
+---
+Copyright © 2024 ArYAN AHMED RUDRO Philippines.<br>
